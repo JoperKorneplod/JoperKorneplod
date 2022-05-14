@@ -1,4 +1,4 @@
-### Hi there 👋 i am joper Korneplod
+### всем приветики 👋 меня зовут joper Korneplod у и у а а
 
 <!--
 **JoperKorneplod/JoperKorneplod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
